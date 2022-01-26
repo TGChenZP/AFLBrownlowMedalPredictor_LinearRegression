@@ -29,7 +29,7 @@ M3.ipynb and the
 - `Scripts series ipynb` are scripts used for mass training of data
 - `M series ipynb` are scripts for training the final model
 - `Report pdf` is the full report of this project
-- `Prepared Data` directory contains KFold Train-Test splitted data for scripts
+- `Prepared Data` directory contains KFold Train-Test splitted data for scripts [Could not be uploaded due to size. Reproduce from `6_.ipynb`]
 
 
 *Note: some the file system has been restructured, so may need to re-create folders/move around files before running a script.*
