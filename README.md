@@ -1,6 +1,7 @@
 # Model for Predicting Brownlow Medal Winner using Linear Regression
 **Author: `Lang (Ron) Chen` 2021.12-2022.1**
 
+
 **Abstract**
 The Brownlow Medal is the AFL’s highest individual honour award. After each game the adjudicating
 umpire would award 3 votes, 2 votes and 1 vote to the top three performing players in their opinion,
@@ -32,3 +33,12 @@ M3.ipynb and the
 
 
 *Note: some the file system has been restructured, so may need to re-create folders/move around files before running a script.*
+
+
+**BIBLIOGRAPHY**
+
+Data Source
+
+-AFLTables.com. 2022. Brownlow Votes Round by Round. [online] Available at: <https://afltables.com/afl/brownlow/brownlow_idx.html> [Accessed 26 January 2022].
+
+-Footywire.com. 2022. AFL Fixture. [online] Available at: <https://www.footywire.com/afl/footy/ft_match_list> [Accessed 26 January 2022].
