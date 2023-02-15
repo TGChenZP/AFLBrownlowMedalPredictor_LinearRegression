@@ -2,6 +2,9 @@
 **Author: `Lang (Ron) Chen` 2021.12-2022.1**
 
 
+**Report**
+Please see file `Report`
+
 **Abstract**
 The Brownlow Medal is the AFL’s highest individual honour award. After each game the adjudicating
 umpire would award 3 votes, 2 votes and 1 vote to the top three performing players in their opinion,
