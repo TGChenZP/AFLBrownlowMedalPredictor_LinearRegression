@@ -3,9 +3,7 @@
 
 
 **Report**
-FOR METHOD USED AND RESULTS OF THIS PROJECT PLEASE SEE `Report for Predicting Brownlow Medal Winner using Linear Regression.pdf`
-
-[Report for Predicting Brownlow Medal Winner using Linear Regression.pdf](https://github.com/TGChenZP/BrownlowPredictor/blob/master/Report%20for%20Predicting%20Brownlow%20Medal%20Winner%20using%20Linear%20Regression.pdf)
+FOR METHOD USED AND RESULTS OF THIS PROJECT PLEASE SEE [`Report for Predicting Brownlow Medal Winner using Linear Regression.pdf`](https://github.com/TGChenZP/BrownlowPredictor/blob/master/Report%20for%20Predicting%20Brownlow%20Medal%20Winner%20using%20Linear%20Regression.pdf)
 
 
 **Abstract**
