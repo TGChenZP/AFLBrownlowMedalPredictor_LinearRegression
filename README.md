@@ -3,7 +3,7 @@
 
 
 **Report**
-Methods and outcomes can be found in `Report for Predicting Brownlow Medal Winner using Linear Regression.pdf`
+FOR METHOD USED AND RESULTS OF THIS EXPERIMENT/PROJECT PLEASE SEE `Report for Predicting Brownlow Medal Winner using Linear Regression.pdf`
 
 **Abstract**
 The Brownlow Medal is the AFL’s highest individual honour award. After each game the adjudicating
